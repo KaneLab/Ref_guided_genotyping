@@ -1,5 +1,5 @@
 #Simple script to convert fasta to nexus
-#infile is fasta
+#infile is a unwrapped fasta
 
 #nexus format looks like this
 
