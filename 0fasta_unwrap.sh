@@ -1,4 +1,4 @@
-;alsdkjf;aljf#format fasta file for downstream processes
+#format fasta file for downstream processes
 #$1 in fasta file to correct
 
 #get beginning of file name
